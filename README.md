@@ -1,1 +1,1 @@
-# azure-atuomate-TobANor
+# azure-automate-TobANor
