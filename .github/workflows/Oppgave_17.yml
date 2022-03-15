@@ -1,4 +1,4 @@
-name: oppgave 27
+name: oppgave 17
 on:
   - push
   - workflow_dispatch
