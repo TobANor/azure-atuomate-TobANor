@@ -18,6 +18,7 @@ function kortstokkTilStreng {
     }
     return $streng = $streng.Substring(0,$streng.Length-1)
 }
+
 $poengKortstokk = 0
 foreach ($kort in $kortstokk) {
     if ($kort.value -ceq 'J' -or $kort.value -ceq 'Q' -or $kort.value -ceq 'K')  {

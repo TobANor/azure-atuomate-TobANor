@@ -1,7 +1,6 @@
-[CmdletBinding()]
-param (
-    [Parameter()]
-    [string]
-    $Navn
+# first ps script with input by rune
+param(
+    $name
 )
-Write-Host "Hei $Navn"
+#uses $name parmeter as input to script file
+write-host 'Hei'$name'!'
